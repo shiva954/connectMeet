@@ -1,5 +1,4 @@
 
-
 import { auth, provider } from "../../services/firebaseConfig";
 import { signInWithPopup } from "firebase/auth";
 import React, { useEffect, useState } from "react";
